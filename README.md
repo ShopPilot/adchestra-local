@@ -1,6 +1,8 @@
-# Adchestra Local
+# Adchestra
 
-Run Google Ads from Claude Desktop, using your own Google account and computer. Free to self-host. No subscription, hosted server or tunnel.
+Run Google Ads from Claude Desktop, using your own Google account and computer. Free to self-host.
+
+Want to skip the technical setup? [Use hosted Adchestra](https://adchestra.com) for **$2.95 USD/month**, with a **14-day free trial**.
 
 Create paused Search campaigns and ads, manage keywords and budgets, and review performance. Every change starts with a preview and a Google validation run.
 
@@ -68,6 +70,5 @@ macOS has been tested live. Windows configuration is supported; a live Windows t
 
 ## License and credit
 
-Adchestra Local is source available under MIT plus Commons Clause for our additions. Original portions are derived from [AdLoop](https://github.com/kLOsk/adloop), created by Daniel Klose, and retain their MIT license. See [LICENSE](LICENSE) and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+This self-hosted edition is source available under MIT plus Commons Clause for our additions. Original portions are derived from [AdLoop](https://github.com/kLOsk/adloop), created by Daniel Klose, and retain their MIT license. See [LICENSE](LICENSE) and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
 
-Prefer to skip the technical setup? [Adchestra](https://adchestra.com) provides a hosted connection for Claude.
