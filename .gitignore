@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.egg-info/
+dist/
+.env*
+client*.json
+token*.json
+credentials*.json
+*.sqlite*
+*.log
+*.jsonl
+.DS_Store
